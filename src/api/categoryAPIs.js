@@ -1,4 +1,4 @@
-//Rest APIs for category
+//Rest APIs for categories
 
 export const fetchAllCategories = (accessToken) => {
 	//Note: we are returning promise so that we can resolve it by using appropriate data type like json or text
