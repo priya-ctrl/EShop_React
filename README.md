@@ -1,4 +1,4 @@
-# upGrad Eshop Application
+# Eshop Application
 Create the frontend using React of the upGrad Eshop application. This will help you follow the proper configuration guidelines that are required for developing this application.
 
 ## Getting Started with Create React App
